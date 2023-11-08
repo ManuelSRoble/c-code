@@ -1,0 +1,15 @@
+Libro: cape
+Autor: luisa
+Cantidad: 12
+
+Nombre: azul
+Autor: arturo
+Cantidad: 3
+
+Nombre: gaston
+Autor: luisa
+Cantidad: 1
+
+Nombre: cape
+Autor: luisa
+Cantidad: 3

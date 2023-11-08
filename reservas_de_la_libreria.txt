@@ -1,0 +1,17 @@
+Usuario: jo
+Libro: cape
+Fecha de reserva: 12/11
+Fecha de regreso: 13/12
+Costo: 120.00
+
+Usuario: otro
+Libro: cape
+Fecha de reserva: 11/10/12
+Fecha de regreso: 22/10/12
+Costo: 11.00
+
+Usuario: luis
+Libro: azul
+Fecha de reserva: 12/11/11
+Fecha de regreso: 22/10/12
+Costo: 1000.00
